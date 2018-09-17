@@ -11,7 +11,7 @@ We mixed the concept of regular shares from Slicing Pies with a headboard divide
 The headboard, similar to EOS Blockchain, is composed of 21 seats. These seats are used to weight in dividends and voting decisions.
 
 - Leo Ribeiro, the Founder and Head of Development, currently holds 7 (seven) seats.
-- Alex Rozgo, the Head of Gaming Engineering and Arts, currently holds 6 (six) seats.
+- Alex Rozgo, the Head of Gaming Engineering, currently holds 6 (six) seats.
 - To-be-Announced, the Sponsorship of Infrastructure and EOS Resources, currently holds 2 (two) seats.
 - Free 6 (six) seats to be defined, according to the project requirements and consensus with the current board.
 
